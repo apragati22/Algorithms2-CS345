@@ -1,5 +1,5 @@
 # Algorithms2-CS345
-Contains assignment submissions for the course CS345 under Prof. Raghunath Tewari in 2024-25-I semester.
+Contains assignment submissions and my notes for the course CS345 under Prof. Raghunath Tewari in 2024-25-I semester.
 
 Received 100% marks in all the four assignments. The assignments were based on: <br>
 **Assignment1:** Divide & Conquer Algorithm Paradigm <br>
