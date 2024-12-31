@@ -7,3 +7,5 @@ Received 100% marks in all the four assignments. The assignments were based on: 
 **Assignment3:** Applications of Max Flow Problem <br>
 **Assignment4:** Ford-Fulkerson Algorithm & Amoritzed Analysis <br>
 
+(Do check out my handwritten notes I had prepared during this course [here](https://github.com/apragati22/My-Notes/tree/main/CS345-Algo2))
+
